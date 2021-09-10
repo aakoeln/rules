@@ -1,2 +1,1 @@
-# rules
-GitHub Rules of Acquisition
+index.md
